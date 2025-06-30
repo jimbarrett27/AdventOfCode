@@ -1,14 +1,7 @@
-[tool.poetry]
+[project]
 name = "adventofcode"
 version = "0.1.0"
-description = ""
-authors = ["jim"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = []
